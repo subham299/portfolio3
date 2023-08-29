@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-section{
+    height: 46rem;
+    width: 95rem;
+    background-color: blueviolet;
+    border: 47rem 94rem;
+    border-color: aqua;
+}
+.hello{
+    margin-left: 37rem;
+    align-items: center;
+    justify-content: center;
+    background-color: blueviolet;
+    
+}
+
+.work{
+    margin-top: ;
+    margin-left: 37rem;
+    justify-content: center;
+}
+.work:hover{
+    
+}
+.home{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 600px 0;
+}
+.sction-1{
+    display: flex;
+}
+.about{
+    padding-left: 45rem;
+}
+
+
+.fast{
+    padding-top: 5rem;
+    padding-left: 4rem ;
+    align-items: center;
+justify-content: space-evenly;
+}
+
+.logo{
+    width: 2rem;
+    height: 2rem;
+}
+.intuitive{
+    padding-top: 5rem;
+    padding-left: 4rem ;
+    align-items: center;
+justify-content: space-evenly;
+}
+.logo{
+    width: 2rem;
+    height: 2rem;
+}
+.responsive{
+    padding-top: 5rem;
+    padding-left: 4rem ;
+    align-items: center;
+justify-content: space-evenly;
+}
+.logo{
+    width: 2rem;
+    height: 2rem;
+}
+.dynamic{
+    padding-top: 5rem;
+    padding-left: 4rem ;
+    align-items: center;
+justify-content: space-evenly;
+}
+.logo{
+    width: 2rem;
+    height: 2rem;
+}
+.section-2{
+    justify-content: baseline;
+    margin-top: 5rem;
+    display: flex;
+}
+.img{
+    margin-left: 12rem;
+    justify-content: space-evenly;
+}
+.experience{
+   margin-left: 10rem;
+   align-items: center;
+   justify-content: space-evenly;
+
+}
+.portfolio-section{
+    height: 45rem;
+    width: 95rem;
+    background-color: light grey;
+}
+.projects{
+    align-items: center;
+    margin-left: 42rem;
+  margin-top: 6rem;
+  margin-bottom: 7rem;
+}
+.all{
+    margin-bottom: 3rem;
+    justify-content: space-evenly;
+display: flex;
+}
+.subham{
+    margin-left: 12rem;
+}
+.blog-section{
+    height: 46rem;
+    width: 95rem;
+    margin-top: 35rem;
+}
+.section-3{
+    align-items: center;
+    margin-left: 42rem;
+  margin-top: 6rem;
+  margin-bottom: 8rem;
+    
+}
+.section-4{
+    display: flex;
+    margin-left: 14rem;
+    justify-content: space-evenly;
+}
+.img-2{
+}
+.img-3{
+}
+.footer-section{
+   
+
+}
+.section-5{
+    height: 22rem;
+    width: 60rem;
+    align-items: center;
+    margin-left: 1rem;
+  margin-top: 8rem;
+  margin-bottom: 5rem;
+  justify-content: center;
+  
+}
+.section-6{
+    padding :2rem;
+    border: 2rem ;
+    border-color: black;
+    
+}
